@@ -24,7 +24,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
 ### Data Cleaning and Preparation
 1. Data Loading and inspection.
 2. Handling missing variables.
-3. Data and cleaning and formatting.
+3. Data cleaning and formatting.
 
 ### Exploratory Data Analysis
 EDA involved the exploring of the data to answer some questions about the data such as;
